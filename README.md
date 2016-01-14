@@ -2,9 +2,9 @@
 Learning Java
 
 #Stage of this App
-1.coding|
-2.design|
-3.published|
+1.coding\n
+2.design\n
+3.published\n
 
 #Naming the Stage in Git
 1.coding_(alpha/beta/release)_(numerical-Date)
